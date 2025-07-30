@@ -10,7 +10,7 @@ interface Props {
   image: string
   socialMedia: SocialMediaProfile[]
 }
-
+// Profile Card component for user profile
 export const ProfileCard = ({ name, description, image, socialMedia }: Props) => {
   return (
     <Card className="max-w-md w-full p-6 flex flex-col sm:flex-row items-center gap-4 shadow-xl rounded-xl bg-white">
