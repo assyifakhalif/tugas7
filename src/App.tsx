@@ -4,7 +4,7 @@ import "@/public/styles/globals.css";
 
 import logo from "@/public/images/logo.svg";
 import reactLogo from "@/public/images/react.svg";
-
+//ini profile card nya,eheheh
 import { ProfileCard } from "@/components/ui/shared/ProfileCard";
 import { profileData } from "@/data"
 
